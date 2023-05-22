@@ -1,1 +1,1 @@
-# Java-OOP-Course
+In Java OOP Course I learned the concepts of Object-Oriented Programming using Java. Throughout the course, I explored the fundamental principles of OOP, such as encapsulation, inheritance, polymorphism, and abstraction.
